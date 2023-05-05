@@ -1,0 +1,42 @@
+[
+    {
+        "name" : "Assignment-1",
+        "obtain-mark" : 60,
+        "id" : 1
+    },
+    {
+        "name" : "Assignment-2",
+        "obtain-mark" : 60,
+        "id" : 2
+    },
+    {
+        "name" : "Assignment-3",
+        "obtain-mark" : 60,
+        "id" : 3
+    },
+    {
+        "name" : "Assignment-4",
+        "obtain-mark" : 55,
+        "id" : 4
+    },
+    {
+        "name" : "Assignment-5",
+        "obtain-mark" : 60,
+        "id" : 5
+    },
+    {
+        "name" : "Assignment-6",
+        "obtain-mark" : 60,
+        "id" : 6
+    },
+    {
+        "name" : "Assignment-7",
+        "obtain-mark" : 60,
+        "id" : 7
+    },
+    {
+        "name" : "Assignment-8",
+        "obtain-mark" : 60,
+        "id" : 8
+    }
+]
