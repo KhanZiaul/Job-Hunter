@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "companyLogo": "https://i.postimg.cc/jdW47WJk/google-1-1-1.png",
+        "jobTitle": "Software Engineer",
+        "companyName": "Google LLC",
+        "remoteOrOnsite": "Onsite",
+        "location": "San Francisco, CA",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "USD 80,000 - 100,000 per year",
+        "jobDescription": "Google LLC is seeking a skilled Software Engineer to join our development team. In this role, you will be responsible for designing and implementing software solutions, troubleshooting and debugging issues, and collaborating with cross-functional teams.",
+        "jobResponsibility": "Designing, coding, testing, and debugging software applications. Collaborating with cross-functional teams to gather requirements and deliver high-quality solutions. Troubleshooting and resolving software defects and performance issues.",
+        "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+        "experiences": "2+ years of experience in software development, proficiency in Java, C++, or Python",
+        "contactInformation": {
+            "phone": "123-456-7890",
+            "email": "careers@googleLLC.com"
+        }
+    },
+    {
+        "id": 2,
+        "companyLogo": "https://i.postimg.cc/kgv0khXS/netflix-4-1.png",
+        "jobTitle": "Marketing Coordinator",
+        "companyName": "Netflix",
+        "remoteOrOnsite": "Remote",
+        "location": "Global",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "USD 50,000 - 60,000 per year",
+        "jobDescription": "Netflix is looking for a detail-oriented Marketing Coordinator to support our marketing efforts. In this role, you will assist in developing marketing strategies, managing social media accounts, and coordinating marketing campaigns.",
+        "jobResponsibility": "Assisting in developing marketing strategies and campaigns. Managing social media accounts and creating engaging content. Coordinating marketing events and activities. Analyzing and reporting on marketing performance.",
+        "educationalRequirements": "Bachelor's degree in Marketing, Communications, or related field",
+        "experiences": "1-2 years of experience in marketing, proficiency in social media management and content creation",
+        "contactInformation": {
+            "phone": "987-654-3210",
+            "email": "careers@Netflix.com"
+        }
+    },
+    {
+        "id": 3,
+        "companyLogo": "https://i.postimg.cc/g0tdwBhh/tesla-9-1.png",
+        "jobTitle": "Product Manager",
+        "companyName": "TESLA",
+        "remoteOrOnsite": "Remote",
+        "location": "Global",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "USD 100,000 - 120,000 per year",
+        "jobDescription": "TESLA is looking for an experienced Product Manager to lead our product strategy and development efforts. In this role, you will be responsible for defining product vision, gathering customer feedback, and driving product innovation.",
+        "jobResponsibility": "Defining and executing product roadmap and strategy. Gathering customer feedback and conducting market research. Collaborating with cross-functional teams to define product requirements and prioritize feature development. Monitoring product performance and making data-driven decisions.",
+        "educationalRequirements": "Bachelor's or Master's degree in Business, Marketing, or related field",
+        "experiences": "5+ years of experience in product management, including a track record of launching successful products.",
+        "contactInformation": {
+            "phone": "456-789-0123",
+            "email": "careers@instagram.com"
+        }
+    },
+    {
+        "id": 4,
+        "companyLogo": "https://i.postimg.cc/nVR7FHMV/Group-10021.png",
+        "jobTitle": "Graphic Designer",
+        "companyName": "AIRBNB",
+        "remoteOrOnsite": "Onsite",
+        "location": "New York, NY",
+        "fullTimeOrPartTime": "Part-time",
+        "salary": "USD 25 - 30 per hour",
+        "jobDescription": "AIRBNB is seeking a talented Graphic Designer to join our team. In this role, you will be responsible for creating visual designs, producing marketing collateral, and collaborating with clients to meet their design needs.",
+        "jobResponsibility": "Creating visual designs for various platforms, including print and digital media. Producing marketing collateral, such as brochures, flyers, and banners. Collaborating with clients to understand their design requirements and delivering high-quality design solutions.",
+        "educationalRequirements": "Bachelor's degree in Graphic Design or related field",
+        "experiences": "2-3 years of experience in graphic design, proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign)",
+        "contactInformation": {
+            "phone": "789-012-3456",
+            "email": "careers@tiktok.com"
+        }
+    },
+    {
+        "id": 5,
+        "companyLogo": "https://i.postimg.cc/brWpz629/ii.png",
+        "jobTitle": "Data Scientist",
+        "companyName": "Tech Innovators Inc.",
+        "remoteOrOnsite": "Remote",
+        "location": "Global",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "USD 90,000 - 110,000 per year",
+        "jobDescription": "Tech Innovators Inc. is looking for a skilled Data Scientist to join our data team. In this role, you will be responsible for analyzing data, developing predictive models, and providing actionable insights to drive business decisions.",
+        "jobResponsibility": "Analyzing large datasets and extracting insights to support decision-making. Developing and implementing predictive models using machine learning algorithms. Collaborating with cross-functional teams to identify business opportunities and optimize data-driven strategies.",
+        "educationalRequirements": "Master's or Ph.D. degree in Data Science, Computer Science, or related field",
+        "experiences": "3-5 years of experience in data science, proficiency in programming languages such as Python or R, experience with machine learning frameworks and libraries",
+        "contactInformation": {
+            "phone": "012-345-6789",
+            "email": "careers@techinnovatorsinc.com"
+        }
+    },
+    {
+        "id": 6,
+        "companyLogo": "https://i.postimg.cc/qRkkQbK1/new-HR.png",
+        "jobTitle": "HR Manager",
+        "companyName": "HR Solutions Ltd.",
+        "remoteOrOnsite": "Onsite",
+        "location": "London, UK",
+        "fullTimeOrPartTime": "Full-time",
+        "salary": "GBP 40,000 - 50,000 per year",
+        "jobDescription": "HR Solutions Ltd. is seeking an experienced HR Manager to oversee our human resources department. In this role, you will be responsible for managing HR operations, developing HR policies, and ensuring compliance with labor laws.",
+        "jobResponsibility": "Managing all aspects of HR operations, including recruitment, onboarding, performance management, and employee relations. Developing and implementing HR policies and procedures to ensure compliance with labor laws and regulations. Providing strategic HR advice and guidance to senior management.",
+        "educationalRequirements": "Bachelor's or Master's degree in Human Resources, Business Administration, or related field",
+        "experiences": "5+ years of experience in HR management, in-depth knowledge of employment laws and regulations, strong communication and leadership skills",
+        "contactInformation": {
+            "phone": "+44 (0)20 1234 5678",
+            "email": "careers@hrsolutionsltd.co.uk"
+        }
+    }
+]
