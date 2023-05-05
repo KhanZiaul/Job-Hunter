@@ -4,7 +4,7 @@
 
 <h1> Live Link </h1> 
 
-<p> Hosted in Netlify : https://effervescent-rolypoly-49fb7a.netlify.app/ </p>
+<p> Hosted in Netlify : https://fascinating-kataifi-a895c6.netlify.app/ </p>
 
 <h1> Best Features </h1>
 
