@@ -1,0 +1,9 @@
+.active{
+    color: rgb(4, 40, 200);
+}
+.btn-nav{
+    background: linear-gradient(90deg, #7E90FE 0%, #9873FF 100%);
+}
+.btn-nav:hover{
+    background: linear-gradient(90deg, #3e467c 0%, #351393 100%);
+}
