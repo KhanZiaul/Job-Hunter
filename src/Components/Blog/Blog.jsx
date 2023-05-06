@@ -1,8 +1,13 @@
 import React from 'react';
 import Image from '../../assets/banner/Vector.png'
 import Image2 from '../../assets/banner/Vector-1.png'
+import { Helmet } from 'react-helmet-async';
+import useTitle from '../../Title/useTitle';
 
 const Blog = () => {
+
+    useTitle('blog')
+    
     return (
         <div>
             <div style={{

@@ -12,6 +12,7 @@ import Statistics from './Components/Statistics/Statistics.jsx';
 import Blog from './Components/Blog/Blog.jsx';
 import JobDetails from './Components/JobDetails/JobDetails.jsx';
 import AppliedJobs from './Components/AppliedJobs/AppliedJobs.jsx';
+import { HelmetProvider } from 'react-helmet-async';
 
 const router = createBrowserRouter([
   {
@@ -24,22 +25,22 @@ const router = createBrowserRouter([
         element: <Home></Home>
       },
       {
-        path:'statistics',
-        element:<Statistics></Statistics>
+        path: 'statistics',
+        element: <Statistics></Statistics>
       },
       {
-        path:'blog',
-        element:<Blog></Blog>
+        path: 'blog',
+        element: <Blog></Blog>
       },
       {
-        path:'job/:id',
-        element:<JobDetails></JobDetails>,
-        loader:() => fetch('/jobs.json')
+        path: 'job/:id',
+        element: <JobDetails></JobDetails>,
+        loader: () => fetch('/jobs.json')
       },
       {
-        path:'applied_jobs',
-        element:<AppliedJobs></AppliedJobs>,
-        loader:() => fetch('/jobs.json')
+        path: 'applied_jobs',
+        element: <AppliedJobs></AppliedJobs>,
+        loader: () => fetch('/jobs.json')
       },
     ]
   },
