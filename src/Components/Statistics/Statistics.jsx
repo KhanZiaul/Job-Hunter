@@ -2,9 +2,10 @@ import React, { useEffect, useState } from 'react';
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer, Tooltip } from 'recharts';
 import Image from '../../assets/banner/Vector.png'
 import Image2 from '../../assets/banner/Vector-1.png'
+import useTitle from '../../Title/useTitle';
 
 const Statistics = () => {
-
+    useTitle('statistics')
     const [chartDatas, setChartDatas] = useState([])
     useEffect(() => {
         fetch('marks.json')

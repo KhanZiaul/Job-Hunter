@@ -1,7 +1,9 @@
 import React from 'react';
 import headerImage from '../../assets/banner/P3OLGJ1 copy 1.png'
+import useTitle from '../../Title/useTitle';
 
 const Header = () => {
+    useTitle('home')
     return (
         <div className='md:flex flex-col-reverse md:flex-row justify-between items-center gap-5 md:gap-0'>
             <div>

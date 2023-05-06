@@ -7,7 +7,7 @@ const Nav = () => {
 
     return (
         <nav className='md:flex justify-between items-center'>
-            <Link to='/'><h2 className='text-2xl font-bold mb-5'>TalentsHunter</h2> </Link>
+            <Link to='/'><h2 className='text-2xl font-bold mb-5'>JobHunter</h2> </Link>
             <div className='relative'>
 
                 <div className='mb-5 md:hidden'>

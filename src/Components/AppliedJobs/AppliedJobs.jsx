@@ -4,10 +4,12 @@ import Image2 from '../../assets/banner/Vector-1.png'
 import { useLoaderData } from 'react-router-dom';
 import { getAppliedJobsCart } from '../LocalStorage/LocalStorage';
 import ShowAppliedJobs from '../ShowAppliedJobs/ShowAppliedJobs';
-import JobDetails from '../JobDetails/JobDetails';
+import useTitle from '../../Title/useTitle';
 
 const AppliedJobs = () => {
 
+    useTitle('applied_jobs')
+     
     const datas = useLoaderData()
     let getAppliedJobsId = getAppliedJobsCart()
     const [matchDatas, setMatchDatas] = useState([])
